@@ -285,10 +285,10 @@
 
 .footer__links-list {
   text-align: center;
+  list-style: none;
 }
 
 .footer__links-list-item {
-  display: block;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -300,10 +300,6 @@
   gap: 48px;
   list-style: none;
   justify-content: end;
-}
-.link {
-}
-.footer__menu-link {
 }
 
 .footer__social-icon {
